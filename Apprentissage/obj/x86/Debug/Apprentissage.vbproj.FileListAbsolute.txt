@@ -1,0 +1,21 @@
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\bin\Debug\Apprentissage.exe
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\bin\Debug\Apprentissage.pdb
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\bin\Debug\Apprentissage.xml
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\obj\x86\Debug\Apprentissage.Form1.resources
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\obj\x86\Debug\Apprentissage.Form2.resources
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\obj\x86\Debug\Apprentissage.Resources.resources
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\obj\x86\Debug\Apprentissage.vbproj.GenerateResource.Cache
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\obj\x86\Debug\Apprentissage.exe
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\obj\x86\Debug\Apprentissage.xml
+C:\Users\RAY\AppData\Local\Temporary Projects\Apprentissage\obj\x86\Debug\Apprentissage.pdb
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Debug\Apprentissage.exe
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Debug\Apprentissage.xml
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Debug\Apprentissage.pdb
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\bin\Debug\Apprentissage.exe
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\bin\Debug\Apprentissage.pdb
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\bin\Debug\Apprentissage.xml
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Debug\Apprentissage.Form1.resources
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Debug\Apprentissage.Form2.resources
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Debug\Apprentissage.Resources.resources
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Debug\Apprentissage.vbproj.GenerateResource.Cache
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Debug\Apprentissage.Form3.resources

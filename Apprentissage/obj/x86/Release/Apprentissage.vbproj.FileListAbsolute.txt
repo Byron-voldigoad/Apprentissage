@@ -1,0 +1,11 @@
+C:\Users\RAY\Desktop\Apprentisage maternelle\Apprentissage.exe
+C:\Users\RAY\Desktop\Apprentisage maternelle\Apprentissage.pdb
+C:\Users\RAY\Desktop\Apprentisage maternelle\Apprentissage.xml
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Release\Apprentissage.Form1.resources
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Release\Apprentissage.Form2.resources
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Release\Apprentissage.Form3.resources
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Release\Apprentissage.Resources.resources
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Release\Apprentissage.vbproj.GenerateResource.Cache
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Release\Apprentissage.exe
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Release\Apprentissage.xml
+C:\Users\RAY\Desktop\TP progamation evenementielle\Apprentissage\Apprentissage\obj\x86\Release\Apprentissage.pdb

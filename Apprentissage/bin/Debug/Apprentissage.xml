@@ -1,0 +1,144 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Apprentissage
+</name>
+</assembly>
+<members>
+<member name="P:Apprentissage.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf56">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf561">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf562">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf563">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf564">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf565">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf566">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf567">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf568">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf569">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf57">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf571">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf5711">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf572">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf573">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf574">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf575">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf576">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf577">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf578">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf579">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf580">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf581">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf582">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf583">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf584">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources._9cf043a337c01af7db6b3ee63456cf585">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources.ananas_en_couleur">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources.ananas_en_couleur1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Apprentissage.My.Resources.Resources.étude_de_la_banane_découverte_lettres_d_alphabet_traçant_feuille_calcul_pour_les_enfants_exercice_à_l_école_primaire_189569567">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Apprentissage.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>
